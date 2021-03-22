@@ -5,9 +5,8 @@ ds
 
 adfd
 
-uprava 4343
+uprava
 
 
 
-nova vetva testing fdfjdksjfkdsjjfdsjfsfs
-fsfs
+nova vetva testing
